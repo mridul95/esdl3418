@@ -5,3 +5,7 @@ subtract
 multiply
 divide
 #############################
+log 
+integration 
+differentiation
+#################################
